@@ -1,5 +1,8 @@
 {
   "name": "oapi3codegen-playground",
+  "description": "Playground for @codegena scope",
+  "license": "MIT",
+  "repository": "https://github.com/koshevy/oapi3codegen-playground",
   "version": "0.0.1",
   "private": false,
   "dependencies": {
